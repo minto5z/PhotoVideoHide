@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/background"
+    android:orientation="vertical">
+
+    <include
+        android:id="@+id/toolbar"
+        layout="@layout/toolbar" />
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+
+            <TextView
+                android:id="@+id/txt_security_question"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:padding="16dp"
+                android:textAppearance="@style/TextAppearance.AppCompat.Headline" />
+
+            <com.rengwuxian.materialedittext.MaterialEditText
+                android:id="@+id/txtbx_security_answer"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="16dp"
+                android:hint="Security answer"
+                android:imeOptions="actionDone"
+                android:inputType="text"
+                android:textColor="@color/white"
+                app:met_baseColor="@color/white"
+                app:met_iconLeft="@drawable/ic_question_answer_black_24dp"
+                app:met_iconPadding="0dp"
+                app:met_primaryColor="@color/white"
+                app:met_textColor="@color/white"
+                app:met_textColorHint="#4DFFFFFF" />
+
+            <Button
+                android:id="@+id/btn_security_answer"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="16dp"
+                android:background="@color/accent"
+                android:text="DONE"
+                android:textColor="#FFFFFF" />
+        </LinearLayout>
+    </ScrollView>
+
+
+</LinearLayout>

@@ -1,0 +1,179 @@
+{
+  "project_info": {
+    "project_number": "216095713275",
+    "firebase_url": "https://newfirebase-e0bdd.firebaseio.com",
+    "project_id": "newfirebase-e0bdd",
+    "storage_bucket": "newfirebase-e0bdd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:216095713275:android:d738b9e5b6178af3",
+        "android_client_info": {
+          "package_name": "com.blogspot.larn4android.materialtabs"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "216095713275-23rtr5q5o45it45dk2abieien6ffmt8s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBXENAu_WssAARF1r2-HkKF3eVtlWIUV2U"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:216095713275:android:01b53be6b3713920",
+        "android_client_info": {
+          "package_name": "com.mikhail.sportsnewshistoryrecords"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "216095713275-614h2blb497f5hguoq3v2kiu3qfgotq6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mikhail.sportsnewshistoryrecords",
+            "certificate_hash": "eea7bed2e3433a5c1bc4d7469dd2c745cf46aa22"
+          }
+        },
+        {
+          "client_id": "216095713275-23rtr5q5o45it45dk2abieien6ffmt8s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBXENAu_WssAARF1r2-HkKF3eVtlWIUV2U"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "216095713275-23rtr5q5o45it45dk2abieien6ffmt8s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:216095713275:android:58565c2623428e18",
+        "android_client_info": {
+          "package_name": "com.mintosoft.govtproject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "216095713275-23rtr5q5o45it45dk2abieien6ffmt8s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBXENAu_WssAARF1r2-HkKF3eVtlWIUV2U"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:216095713275:android:1e9771a5de9955c5",
+        "android_client_info": {
+          "package_name": "com.mintosoft.hidephotovideo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "216095713275-23rtr5q5o45it45dk2abieien6ffmt8s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBXENAu_WssAARF1r2-HkKF3eVtlWIUV2U"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:216095713275:android:227413224913839c",
+        "android_client_info": {
+          "package_name": "com.ramotion.expandingcollection"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "216095713275-23rtr5q5o45it45dk2abieien6ffmt8s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBXENAu_WssAARF1r2-HkKF3eVtlWIUV2U"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

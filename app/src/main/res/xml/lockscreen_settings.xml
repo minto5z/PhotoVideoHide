@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.v7.preference.PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <android.support.v7.preference.Preference
+        android:key="changepasscode"
+        android:summary="Change lockscreen passcode"
+        android:title="Change passcode" />
+
+    <android.support.v7.preference.SwitchPreferenceCompat
+        android:defaultValue="false"
+        android:key="usefingerprint"
+        android:summary="If enabled, you can still use passcode"
+        android:title="Fingerprint unlock" />
+
+    <android.support.v7.preference.Preference
+        android:key="securityquestion"
+        android:title="Security Question" />
+
+    <android.support.v7.preference.Preference
+        android:key="rateus"
+        android:title="Rate Us" />
+
+    <android.support.v7.preference.Preference
+        android:key="feedback"
+        android:title="Feedback" />
+
+    <android.support.v7.preference.Preference
+        android:key="share"
+        android:title="Share Now" />
+
+    <android.support.v7.preference.Preference
+        android:key="aboutus"
+        android:title="About Us" />
+
+</android.support.v7.preference.PreferenceScreen>
